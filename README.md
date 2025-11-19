@@ -1,4 +1,4 @@
-![Contributions Snake](https://raw.githubusercontent.com/pavanganeshpg/pavanganeshpg/output/github-contribution-grid-snake.svg)
+
 
 ## 👋 Hey there, I'm Pavanganesh Naik
 
